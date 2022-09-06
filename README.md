@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Use OPEN WEATHER API to build a key and put it in the empty variable called API_KEY in weather.jsx under "services".
+
 In the project directory, you can run:
 
 ### `npm start`
